@@ -1,1 +1,3 @@
-git
+Name: Ritesh
+Skills: HTML, CSS, JS, Bootstrap, ReactJs, C/C++,communication, problem solving.
+Email: nitishkulkarni1312@gmail.com
